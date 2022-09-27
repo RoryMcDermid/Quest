@@ -1,0 +1,9 @@
+//////////
+
+S.processScroll("\033[0m", "While walking towards the town, you begin to hear hoof beats on the stone road, curious as to who would be going so fast you turn around.", true);
+
+S.processScroll("\033[0m", "On the road behind you is a man in shining metal armour riding a horse, behind him seems to be a shark. The shark is closing the gap between it and the knight. What will you do?", true);
+
+Knight is (?) bringing letter to Jack about the Kingdom being in peril
+
+//////////

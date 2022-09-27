@@ -1,0 +1,38 @@
+Sand Sharkey boss fight (not done)
+
+scott is scone baker from his game (started)
+
+church of fonts. (started)
+  priest is protecting heart of fonts(not done)
+
+use main to go to other .java files to make the code neater. (done)
+
+combat styles (paddys is scone-slinging) (not done)
+
+maybe add a list of known people? (doing)
+
+Nyoom group (not done)
+
+Heart of the fonts is the platinum chip (bois want to protect it, charles wants to use it, priest wants to hide it) (not done)
+
+mini boss: recycling man (ro mur) (not done)
+umbrella man (ro mc) (not done)
+
+whether to use red or blue for health (player/enemy) (done)
+
+add in daniel somehow with link to his breaking the inputs
+
+town name is cantile (five miles in french then muddled up a bit) 
+
+do wolves with cruise missiles (not done)
+
+Jack's story of trying to get a king/lord to approve of him so he can marry said king/lord's daughter (not done)
+
+
+This is the player's alignment (some choices will change this, some actions can only be done if one of these is above a certain level)
+      for (int i = 0; i < 3; i++){
+        //0 is Determination
+        //1 is Curiousity
+        //2 is Intrigue
+        Player.setAlignment(0, i);
+      }
